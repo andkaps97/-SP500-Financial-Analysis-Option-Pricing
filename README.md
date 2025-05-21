@@ -30,11 +30,7 @@ A modular Python package for statistical analysis of S&P 500 returns, GBM parame
     - European convergence plots against Black-Scholes  
     - American early-exercise pricing  
 
-- **Utilities & Best Practices**  
-  - CLI entry point via `argparse`  
-  - Configuration using `@dataclass`  
-  - Structured logging (INFO level)  
-  - PEP8, type hints, docstrings, and modular design  
+
 
 ## Installation
 
